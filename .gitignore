@@ -41,3 +41,4 @@ laravel-echo-server.lock
 # Vim
 .*.swp
 _ide_helper.php
+.ftpconfig
